@@ -1,0 +1,18 @@
+.nav-items {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+}
+
+.nav-items li {
+  display: flex;
+}
+
+h1 {
+  text-align: center;
+  margin-bottom: 5vh;
+}
+
+/* body {
+  background-color: aqua;
+} */
